@@ -34,3 +34,7 @@ git status
 ## Project Image
 
 ![Project banner](assets/project-banner.svg)
+
+## Progress
+
+The About feature has been merged into main.
